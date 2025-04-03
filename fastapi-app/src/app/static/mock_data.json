@@ -1,0 +1,32 @@
+[
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "ISBN": "978-0-06-112008-4",
+      "published": "1960-07-11T00:00:00"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "ISBN": "978-0-452-28423-4",
+      "published": "1949-06-08T00:00:00"
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "ISBN": "978-0-14-243724-7",
+      "published": "1851-10-18T00:00:00"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "ISBN": "978-0-14-143951-8",
+      "published": "1813-01-28T00:00:00"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "ISBN": "978-0-316-76948-0",
+      "published": "1951-07-16T00:00:00"
+    }
+  ]
